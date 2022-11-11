@@ -1,0 +1,40 @@
+body {
+    background-color: lightgrey;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px solid black;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 210%;
+    border: 10px solid black;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul, ol {
+    border: 10px solid red;
+}
+
+h2, h3 {
+    border: 10px solid orange;
+    color: darkblue;
+}
+
+.lista-importante li {
+    font-weight: bold;
+
+}
+
+.span-ficha-receta {
+    font-weight: bold;
+    font-size: 125%;
+}
+
+.p-aclaración-final {
+    font-size: 110%;
+    font-weight: bold;
+}
