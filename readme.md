@@ -1,1 +1,1 @@
-Este proyecto cuenta con una página principal que contiene tres enlaces. Cada uno de esos enlaces lleva a una receta de cocina distinta.
+Este es el primer proyecto del curriculum de The Odin Project. Consiste en una simple página que contiene algunos enlaces a recetas culinarias.  
